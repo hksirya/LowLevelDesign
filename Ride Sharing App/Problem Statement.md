@@ -45,4 +45,8 @@ You have been tasked with designing a ride-sharing application similar to servic
 - Rider A requests a ride (origin: 50, destination: 60, seats: 2).
   - Output: Ride Amount = 10 * 2 * 0.75 * 20 (Amount/Km) = 300
 
-Your design should encompass these requirements, allowing for the efficient management of drivers, riders, rides, and accurate calculation of ride amounts. The bonus features of preferred riders and associated discounts are optional but could enhance the application's functionality.
+# UML Diagram : 
+![Screenshot (784)](https://github.com/hksirya/LowLevelDesign/assets/104431269/afd28891-d868-4ab0-8a48-faa703a16de3)
+# Output :
+![Screenshot (786)](https://github.com/hksirya/LowLevelDesign/assets/104431269/ba041b1d-7a2a-48b4-bba2-13a519a6dc82)
+
