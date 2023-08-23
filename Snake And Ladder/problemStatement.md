@@ -29,4 +29,11 @@ begins, these can’t be changed.
 - After the game ends, the system should display the final values of each player and also declare the winner.
 # Class Diagram 
 ![Screenshot (797)](https://github.com/hksirya/LowLevelDesign/assets/104431269/d23205e5-429a-460c-ab49-638b5187c93c)
+# Output
+
+![Screenshot (798)](https://github.com/hksirya/LowLevelDesign/assets/104431269/247d15d2-789f-4ffe-a50a-2e5eb19149ba)
+![Screenshot (799)](https://github.com/hksirya/LowLevelDesign/assets/104431269/41eac158-abb7-45fe-984c-5e4ceb16fcc4)
+
+- **Random Key Generating Different Winners**
+
 
