@@ -15,3 +15,8 @@ The application should be able to support the following functionalities:
 
 # Class Diagram
 ![Screenshot (802)](https://github.com/hksirya/LowLevelDesign/assets/104431269/33edeaf2-5f2a-496b-abb5-08f88984e7d0)
+
+# Output 
+
+![Screenshot (807)](https://github.com/hksirya/LowLevelDesign/assets/104431269/4bfbc603-5a4b-4b0f-bf82-ad240a4a268f)
+![Screenshot (808)](https://github.com/hksirya/LowLevelDesign/assets/104431269/934e9950-484a-4083-91d2-54eeae4d76c4)
