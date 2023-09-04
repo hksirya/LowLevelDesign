@@ -28,7 +28,12 @@ In case we cannot schedule a job such that it completes before its deadline then
 - Input: List of jobs, number of threads
 - Output: The order of jobs scheduled for each algorithm on each thread as output.
 
-# Output
+# Class diagram
 ![Screenshot (812)](https://github.com/hksirya/LowLevelDesign/assets/104431269/db9ccf63-d0c7-43ca-bd92-dc434c07855c)
+
+# Output
+![Screenshot (813)](https://github.com/hksirya/LowLevelDesign/assets/104431269/1ce0bc08-8df3-414e-a55a-7c03e623d4c8)
+
+
 
 
